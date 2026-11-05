@@ -18,3 +18,12 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  assets:
+    - assets/imgs/tortuga1.jpg
+    - assets/imgs/tortuga3.jpg
+    - assets/imgs/tortuga4.jpg
+    - assets/imgs/tortuga5.jpg
+    - assets/imgs/tortuga6.jpg
+    - assets/imgs/tortuga7.jpg
+    - assets/imgs/tortuga8.jpg
